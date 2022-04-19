@@ -1,0 +1,24 @@
+body{
+        background: linear-gradient(to right, #DFA9C4, #745FAB);        
+}
+
+
+
+.article{
+    padding:1%;
+    background-color: white;
+    border-radius: 40px;
+   width: 15%;
+   height: 25%;
+   margin: 10px;
+   display: inline-table;
+   opacity: 80%;
+     
+}
+.h1{
+    font-weight: normal;
+    font-size:25px;
+}
+.img{
+    width: 100%;
+}
